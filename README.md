@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **mehuljun09@gmail.com**
 
-- 📄 Know about my experiences [Pursuing diploma in data science from IIT Madras](Pursuing diploma in data science from IIT Madras)
+- 📄 Know about my experiences (Pursuing diploma in data science from IIT Madras)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
